@@ -10,7 +10,7 @@ I’m passionate about turning creative ideas into interactive and responsive we
 * ✉️  You can contact me at [gaurishkamat23@gmail.com](mailto:gaurishkamat23@gmail.com)
 * 🧠  I'm learning Backend Development with Java
 * 🤝  I'm open to collaborating on Frontend and Backend development
-* ⚡  I am A1 and A2 level certified in German language
+* ⚡  I'm A1 and A2 level certified in German language
 
 ### 🌟 **Current Goals**  
 I’m currently exploring full-stack development, enhancing my backend skills to become a well-rounded developer.
