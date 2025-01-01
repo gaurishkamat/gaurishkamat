@@ -4,11 +4,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Frontend Web Developer
 ----------------------
 
-I’m passionate about turning creative ideas into interactive and responsive web applications. With a strong foundation in HTML, CSS, and JavaScript, I specialize in building visually appealing, user-friendly interfaces using JavaScript frameworks/libraries like React, Angular etc.
+I’m passionate about turning creative ideas into interactive and responsive web applications. With a strong foundation in HTML, CSS, and JavaScript, I specialize in building visually appealing, user-friendly interfaces using JavaScript frameworks/ libraries like React, Angular etc.
 
 * 🌍  I'm based in Pune, Maharashtra
 * ✉️  You can contact me at [gaurishkamat23@gmail.com](mailto:gaurishkamat23@gmail.com)
-* 🧠  I'm learning Backend Development with Java
+* 🧠  I'm learning Backend Development with Java, Spring Boot
 * 🤝  I'm open to collaborating on Frontend and Backend development
 * ⚡  I'm A1 and A2 level certified in German language
 
