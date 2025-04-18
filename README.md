@@ -13,7 +13,7 @@ I’m passionate about turning creative ideas into interactive and responsive we
 * ⚡  I'm A1 and A2 level certified in German language.
 
 ### 🌟 **Current Goals**  
-I’m currently exploring full-stack development, enhancing my backend skills to become a well-rounded developer.
+I’m currently exploring full-stack development, enhancing my backend skills in Java to become a well-rounded developer.
 
 <a href="https://www.github.com/gaurishkamat" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/gaurishkamat?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.x.com/gaurishkamat23" target="_blank" rel="noreferrer"><img
