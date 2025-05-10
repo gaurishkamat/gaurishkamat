@@ -8,7 +8,7 @@ I’m passionate about turning creative ideas into interactive and responsive we
 
 * 🌍  I'm based in Pune, Maharashtra, India.
 * ✉️  You can contact me at [gaurishkamat23@gmail.com](mailto:gaurishkamat23@gmail.com)
-* 🧠  I'm learning Backend Development with Java, Spring Boot.
+* 🧠  I'm learning Backend Development with Java 17, Spring Boot.
 * 🤝  I'm open to collaborating on Frontend and Backend development.
 * ⚡  I'm A1 and A2 level certified in German language, currently learning B1.
 
